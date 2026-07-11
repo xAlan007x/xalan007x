@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola mi nombre es alan
 
-<!--
-**xAlan007x/xalan007x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola mi nombre es alan
+🚀 ¡Hola! Soy desarrollador en formación de 12 años. Me apasiona la tecnología, construir proyectos desde cero y aprender algo nuevo todos los días. Actualmente soy el creador de TiendaVirtus, mi propio proyecto y negocio en línea. ¡Explora mis repositorios para ver cómo avanza mi camino en el mundo de la programación! 💻✨
 
-Here are some ideas to get you started:
+Mi proyectos
+En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi negocio TiendaVirtus usando HTML y JavaScript, hasta scripts de videojuegos creados con Luau. No me quedo con un solo tipo de proyecto; me gusta explorar, experimentar y construir cosas diferentes. Cada código que subo aquí es un paso más en mi camino, enfocado siempre en aprender de los errores y mejorar mis habilidades con el tiempo. ¡La meta es que mi próximo proyecto sea siempre mejor que el anterior! 💪✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ lenguajes
+
+HTML5
+
+JavaScript
+
+Luaua
