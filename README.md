@@ -14,6 +14,11 @@ JavaScript
 
 Luaua
 
+## Creador
+
+[@xalan007x](https://www.github.com/xalan007x)
+
+
 
 
 
