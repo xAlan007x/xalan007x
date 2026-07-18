@@ -11,10 +11,6 @@ Hola mi nombre es alan
 Mi proyectos
 En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi negocio TiendaVirtus usando HTML y JavaScript, hasta scripts de videojuegos creados con Luau. No me quedo con un solo tipo de proyecto; me gusta explorar, experimentar y construir cosas diferentes. Cada código que subo aquí es un paso más en mi camino, enfocado siempre en aprender de los errores y mejorar mis habilidades con el tiempo. ¡La meta es que mi próximo proyecto sea siempre mejor que el anterior! 💪✨
 
-## Creador
-
-<a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
 ### 🛠 &nbsp;lenguajes y mas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -39,3 +35,7 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+## Creador
+
+<a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
