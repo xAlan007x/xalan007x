@@ -1,3 +1,15 @@
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+------
+
+Credit: [Anderson Mendoza](https://github.com/andermendoza)
+
+Last Edited on: 26/09/2022
+ 
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-12-blue" />
