@@ -47,14 +47,6 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
 
 <a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-<img src="images/svg/header_en.svg"></img>
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
-<p align="center">
-  <samp>
-    A passionate Software Engineer currently pursuing M.Tech in CSE at MA College, Koothamangalam. With hands-on experience in software development, leadership, and project execution, I enjoy building impactful solutions that blend technology, creativity, and real-world problem-solving.<br><br>
-    I’m constantly exploring new technologies, collaborating with teams, and contributing to projects that drive meaningful change and inspire innovation.
-  </samp>
-  <br> <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=megha-ranjith.visitor-badge" />
 </p>
 <br> 
