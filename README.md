@@ -45,6 +45,8 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
 
 ## Creador
 
+<a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
 <img src="images/svg/header_en.svg"></img>
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
 <p align="center">
@@ -75,7 +77,3 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-
-<a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
