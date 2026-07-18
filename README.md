@@ -45,5 +45,37 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
 
 ## Creador
 
+<img src="images/svg/header_en.svg"></img>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
+<p align="center">
+  <samp>
+    A passionate Software Engineer currently pursuing M.Tech in CSE at MA College, Koothamangalam. With hands-on experience in software development, leadership, and project execution, I enjoy building impactful solutions that blend technology, creativity, and real-world problem-solving.<br><br>
+    I’m constantly exploring new technologies, collaborating with teams, and contributing to projects that drive meaningful change and inspire innovation.
+  </samp>
+  <br> <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=megha-ranjith.visitor-badge" />
+</p>
+<br> 
+<!--
+[![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
+-->
+<!--
+<h3 align="left">My Achievement</h3> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megha-ranjith" alt="megha-ranjith" /></a> </p>
+-->
+<!--
+<h3 align="left">Knock Knock</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/megharanjith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/megharanjith" /></a></p><br><br>
+-->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 <a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
