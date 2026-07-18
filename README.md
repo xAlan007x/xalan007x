@@ -6,19 +6,11 @@ Hola mi nombre es alan
 Mi proyectos
 En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi negocio TiendaVirtus usando HTML y JavaScript, hasta scripts de videojuegos creados con Luau. No me quedo con un solo tipo de proyecto; me gusta explorar, experimentar y construir cosas diferentes. Cada código que subo aquí es un paso más en mi camino, enfocado siempre en aprender de los errores y mejorar mis habilidades con el tiempo. ¡La meta es que mi próximo proyecto sea siempre mejor que el anterior! 💪✨
 
-🛠️ lenguajes
-
-HTML5
-
-JavaScript
-
-Luaua
-
 ## Creador
 
 [@xalan007x](https://www.github.com/xalan007x)
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;lenguajes y mas
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
