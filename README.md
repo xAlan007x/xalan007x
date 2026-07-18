@@ -47,9 +47,6 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
 
 <a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=megha-ranjith.visitor-badge" />
-</p>
-<br> 
 <!--
 [![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
