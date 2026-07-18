@@ -1,8 +1,7 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-12-blue" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-español%20%26%20Sinhala-brightgreen" />
 
 # Hola mi nombre es alan
 
