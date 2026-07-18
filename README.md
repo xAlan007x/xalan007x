@@ -1,3 +1,9 @@
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-12-blue" />
+  <img src="https://img.shields.io/badge/Languages-Español%20%26%20Sinhala-brightgreen" />
+
+
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
