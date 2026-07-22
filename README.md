@@ -47,7 +47,7 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Creador
+## Mi github
 
 <a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
