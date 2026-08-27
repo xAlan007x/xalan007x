@@ -1,68 +1,112 @@
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-12-blue" />
-  <img src="https://img.shields.io/badge/Languages-Español%20%26%20Sinhala-brightgreen" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-12-blue" />
+  <img src="https://img.shields.io/badge/Languages-Español-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-purple" />
+</p>
 
 <!-- GIF FOOTER -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
 <!-- RAINBOW LINE BOT -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# Hola mi nombre es alan
+# 👋 Hola, mi nombre es Alan
 
-Hola mi nombre es alan
-🚀 ¡Hola! Soy desarrollador en formación de 12 años. Me apasiona la tecnología, construir proyectos desde cero y aprender algo nuevo todos los días. Actualmente soy el creador de TiendaVirtus, mi propio proyecto y negocio en línea. ¡Explora mis repositorios para ver cómo avanza mi camino en el mundo de la programación! 💻✨
+🚀 ¡Hola! Soy **Alan**, desarrollador en formación de 12 años. Me apasiona la tecnología, construir proyectos desde cero y aprender algo nuevo todos los días.
 
-Mi proyectos
-En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi negocio TiendaVirtus usando HTML y JavaScript, hasta scripts de videojuegos creados con Luau. No me quedo con un solo tipo de proyecto; me gusta explorar, experimentar y construir cosas diferentes. Cada código que subo aquí es un paso más en mi camino, enfocado siempre en aprender de los errores y mejorar mis habilidades con el tiempo. ¡La meta es que mi próximo proyecto sea siempre mejor que el anterior! 💪✨
+Actualmente soy el creador de **TiendaVirtus**, mi propio proyecto relacionado con impresión 3D, tecnología y desarrollo. 💻🖨️
 
-### 🛠 &nbsp;lenguajes y mas
+Me gusta experimentar con diferentes tecnologías, crear páginas web, programar y convertir ideas en proyectos reales.
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+---
+
+## 🚀 Mis proyectos
+
+En este perfil vas a encontrar de todo un poco:
+
+🌐 **Desarrollo web** — páginas modernas, interactivas y proyectos con HTML, CSS y JavaScript.
+
+🖨️ **TiendaVirtus** — mi proyecto de impresión 3D y tecnología.
+
+🎮 **Videojuegos y scripts** — experimentos y proyectos relacionados con videojuegos y Luau.
+
+💻 **Programación** — diferentes proyectos creados para aprender, experimentar y mejorar mis habilidades.
+
+Cada repositorio representa una parte de mi aprendizaje. ¡La meta es que mi próximo proyecto sea mejor que el anterior! 💪✨
+
+---
+
+## ⭐ Proyectos destacados
+
+| Proyecto             | Descripción                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------- |
+| 🖨️ **TiendaVirtus** | Proyecto de impresión 3D, tecnología y desarrollo web.                             |
+| 🚨 **Reporta Fácil** | Página para facilitar el reporte de contenido o cuentas en diferentes plataformas. |
+| 🌐 **Proyectos Web** | Diferentes experimentos y páginas creadas con tecnologías web.                     |
+
+---
+
+## 🔥 Actualmente trabajando en
+
+* 🖨️ Mejorar **TiendaVirtus**
+* 🌐 Crear nuevas páginas web
+* 💻 Aprender nuevas tecnologías
+* 🤖 Experimentar con IA y programación
+* 🚀 Crear proyectos cada vez más completos
+
+---
+
+### 🛠  Lenguajes y más
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=Java\&logoColor=FFA518) 
+![C](https://img.shields.io/badge/-C-05122A?style=flat\&logo=C\&logoColor=A8B9CC) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat\&logo=C%2B%2B\&logoColor=00599C) 
+![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react) 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js) 
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat\&logo=django) 
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat\&logo=flask) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat\&logo=bootstrap\&logoColor=563D7C) 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat\&logo=HTML5) 
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat\&logo=CSS3\&logoColor=1572B6) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github) 
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat\&logo=markdown)
+
+---
 
 #### 🔧 Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Mi github
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
-<a href = 'https://github.com/xAlan007x'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+---
 
-<!--
-[![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-<h3 align="left">My Achievement</h3> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megha-ranjith" alt="megha-ranjith" /></a> </p>
--->
-<!--
-<h3 align="left">Knock Knock</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/megharanjith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/megharanjith" /></a></p><br><br>
--->
+## 🌐 Mis redes
+
+<p align="center">
+
+<a href="https://github.com/xAlan007x">
+<img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
+</a>
+
+<a href="https://instagram.com/TiendaVirtus_.oficial">
+<img width="40px" src="https://cdn.simpleicons.org/instagram"/>
+</a>
+
+</p>
+
+**GitHub:** [@xAlan007x](https://github.com/xAlan007x)
+
+**Instagram:** [@TiendaVirtus_.oficial](https://instagram.com/TiendaVirtus_.oficial)
+
+---
+
+## 🐍 Mi actividad en GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -70,11 +114,21 @@ En este perfil vas a encontrar de todo un poco: desde el desarrollo web de mi ne
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+### ⚙️  GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/xalan007">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/xAlan007x">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xAlan007x&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xAlan007x&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+## 🏆 Mi objetivo
+
+> **Aprender, crear y mejorar un poco todos los días. 🚀**
+
+Gracias por visitar mi perfil. ¡Espero que encuentres algún proyecto interesante! ⭐
