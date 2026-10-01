@@ -102,7 +102,7 @@ Cada repositorio representa una parte de mi aprendizaje. Â¡La meta es que mi prÃ
 
 **GitHub:** [@xAlan007x](https://github.com/xAlan007x)
 
-**Instagram:** [@TiendaVirtus_.oficial](https://instagram.com/TiendaVirtus_.oficial)
+**Instagram:** [@TiendaVirtus_.oficial](https://instagram.com/TiendaVirtus.oficial)
 
 ---
 
