@@ -1,112 +1,111 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-12-blue" />
-  <img src="https://img.shields.io/badge/Languages-Español-brightgreen" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-purple" />
+  <img src="https://img.shields.io/badge/Age-12-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-Español-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-orange?style=for-the-badge" />
 </p>
 
-<!-- GIF FOOTER -->
+<!-- BANNER PRINCIPAL -->
+<p align="center">
+  <img width="100%" src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif" alt="Banner Animado"/>
+</p>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
-<!-- RAINBOW LINE BOT -->
-
+<!-- LINEA NEON -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-# 👋 Hola, mi nombre es Alan
-
-🚀 ¡Hola! Soy **Alan**, desarrollador en formación de 12 años. Me apasiona la tecnología, construir proyectos desde cero y aprender algo nuevo todos los días.
-
-Actualmente soy el creador de **TiendaVirtus**, mi propio proyecto relacionado con impresión 3D, tecnología y desarrollo. 💻🖨️
-
-Me gusta experimentar con diferentes tecnologías, crear páginas web, programar y convertir ideas en proyectos reales.
-
----
-
-## 🚀 Mis proyectos
-
-En este perfil vas a encontrar de todo un poco:
-
-🌐 **Desarrollo web** — páginas modernas, interactivas y proyectos con HTML, CSS y JavaScript.
-
-🖨️ **TiendaVirtus** — mi proyecto de impresión 3D y tecnología.
-
-🎮 **Videojuegos y scripts** — experimentos y proyectos relacionados con videojuegos y Luau.
-
-💻 **Programación** — diferentes proyectos creados para aprender, experimentar y mejorar mis habilidades.
-
-Cada repositorio representa una parte de mi aprendizaje. ¡La meta es que mi próximo proyecto sea mejor que el anterior! 💪✨
-
----
-
-## ⭐ Proyectos destacados
-
-| Proyecto             | Descripción                                                                        |
-| -------------------- | ---------------------------------------------------------------------------------- |
-| 🖨️ **TiendaVirtus** | Proyecto de impresión 3D, tecnología y desarrollo web.                             |
-| 🚨 **Reporta Fácil** | Página para facilitar el reporte de contenido o cuentas en diferentes plataformas. |
-| 🌐 **Proyectos Web** | Diferentes experimentos y páginas creadas con tecnologías web.                     |
-
----
-
-## 🔥 Actualmente trabajando en
-
-* 🖨️ Mejorar **TiendaVirtus**
-* 🌐 Crear nuevas páginas web
-* 💻 Aprender nuevas tecnologías
-* 🤖 Experimentar con IA y programación
-* 🚀 Crear proyectos cada vez más completos
-
----
-
-### 🛠  Lenguajes y más
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat\&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat\&logo=Java\&logoColor=FFA518) 
-![C](https://img.shields.io/badge/-C-05122A?style=flat\&logo=C\&logoColor=A8B9CC) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat\&logo=C%2B%2B\&logoColor=00599C) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js) 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat\&logo=django) 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat\&logo=flask) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat\&logo=bootstrap\&logoColor=563D7C) 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat\&logo=HTML5) 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat\&logo=CSS3\&logoColor=1572B6) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github) 
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat\&logo=markdown)
-
----
-
-#### 🔧 Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 🌐 Mis redes
+<!-- TEXTO ANIMADO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Alan;Desarrollador+Web+en+Formación;Amante+de+la+tecnología+y+la+IA;Creando+ideas+y+convirtiéndolas+en+proyectos" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-
-<a href="https://github.com/xAlan007x">
-<img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
-</a>
-
-<a href="https://instagram.com/TiendaVirtus_.oficial">
-<img width="40px" src="https://cdn.simpleicons.org/instagram"/>
-</a>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-**GitHub:** [@xAlan007x](https://github.com/xAlan007x)
+## 👋 Sobre mí
 
-**Instagram:** [@TiendaVirtus_.oficial](https://instagram.com/TiendaVirtus.oficial)
+- 🧑‍💻 Me llamo **Alan**, tengo 12 años y soy un desarrollador en formación.
+- 💡 Me encanta aprender cosas nuevas, resolver problemas y dar vida a mis ideas con código.
+- 🖨️ Creador de **TiendaVirtus**, mi propio proyecto enfocado a la impresión 3D, tecnología y desarrollo web.
+- 🚀 Mi filosofía: *"Aprender, crear y mejorar un poco más cada día."*
+- 🌱 Actualmente enfocado en dominar **JavaScript**, **React** y el desarrollo full-stack.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-## 🐍 Mi actividad en GitHub
+## 🚀 Mis Proyectos
+
+| Proyecto | Descripción | Estado |
+| --- | --- | --- |
+| 🖨️ **[TiendaVirtus](https://github.com/xAlan007x)** | Mi proyecto principal sobre impresión 3D, productos tecnológicos y desarrollo web. | `En desarrollo` |
+| 🚨 **Reporta Fácil** | Página web para facilitar el reporte de contenido o cuentas en distintas plataformas. | `En desarrollo` |
+| 🌐 **Proyectos Web** | Colección de páginas, landing pages y experimentos hechos con HTML, CSS y JavaScript. | `Activo` |
+| 🎮 **Proyectos Luau** | Pequeños scripts y experimentos para Roblox Studio utilizando Luau. | `Activo` |
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## 🔥 Lo que estoy haciendo ahora
+
+- 🖨️ Mejorando y dando forma a **TiendaVirtus** con nuevas funcionalidades.
+- 🌐 Creando páginas web modernas, responsivas e interactivas.
+- 💻 Aprendiendo nuevas tecnologías para ampliar mis conocimientos.
+- 🤖 Explorando el mundo de la **IA** y cómo aplicarla a mis proyectos.
+- 🧠 Practicando lógica de programación con ejercicios y retos diarios.
+- 🚀 Buscando crear proyectos cada vez más completos y profesionales.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## 🛠️ Tecnologías y Lenguajes
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp,django,flask,bootstrap,git,github,markdown,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## 🧰 Herramientas que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <a href="https://github.com/xAlan007x">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xAlan007x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xAlan007x&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xAlan007x&theme=tokyonight&hide_border=false&border_radius=10" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xAlan007x&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## 🐍 Mi serpiente de contribuciones
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -114,21 +113,17 @@ Cada repositorio representa una parte de mi aprendizaje. ¡La meta es que mi pr�
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
-
-### ⚙️  GitHub Analytics
-
 <p align="center">
-<a href="https://github.com/xAlan007x">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xAlan007x&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xAlan007x&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
----
+## 🌐 Conecta conmigo
 
-## 🏆 Mi objetivo
-
-> **Aprender, crear y mejorar un poco todos los días. 🚀**
-
-Gracias por visitar mi perfil. ¡Espero que encuentres algún proyecto interesante! ⭐
+<p align="center">
+  <a href="https://github.com/xAlan007x" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/TiendaVirtus.oficial" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
