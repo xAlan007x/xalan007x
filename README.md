@@ -1,4 +1,13 @@
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xAlan007x&show_icons=true&theme=transparent&title_color=00F7FF&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D&hide_border=false&rank_icon=github" alt="Estadísticas de GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAlan007x&layout=compact&langs_count=6&theme=transparent&title_color=00F7FF&text_color=C9D1D9&border_color=30363D" alt="Lenguajes más utilizados"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:6366F1,100:8B5CF6&height=3&section=header" width="100%" alt="Separador neón"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Age-12-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Languages-Español-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-purple?style=for-the-badge" />
@@ -78,27 +87,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/xAlan007x">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xAlan007x&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xAlan007x&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xAlan007x&theme=tokyonight&hide_border=false&border_radius=10" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xAlan007x&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" />
 </p>
 
 <p align="center">
