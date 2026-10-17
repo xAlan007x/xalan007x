@@ -48,7 +48,7 @@
 | Proyecto | Descripción | Estado |
 | --- | --- | --- |
 | 🖨️ **[TiendaVirtus](https://github.com/xAlan007x)** | Mi proyecto principal sobre impresión 3D, productos tecnológicos y desarrollo web. | `En desarrollo` |
-| 🚨 **[Reporta Fácil](https://github.com/xAlan007x/Reporta-Mas-Facil)** | Página web para facilitar el reporte de contenido o cuentas en distintas plataformas. | `En desarrollo` |
+| 🚨 **[Reporta Fácil](https://github.com/xAlan007x/Reporta-Mas-Facil)** | Página web para facilitar el reporte de contenido o cuentas en distintas plataformas. | `Activo` |
 | 🌐 **[Proyectos Web](https://github.com/xAlan007x/portafolio-personal-)** | Colección de páginas, landing pages y experimentos hechos con HTML, CSS y JavaScript. | `Activo` |
 | 🏙️ **[TiendaVirtus CITY](https://github.com/xAlan007x/TiendaVirtus-city)** | Proyecto grande donde vos podes ser parte dibujas y construis una ciudad con la comunidad| `Activo` |
 | 🖱️ **[Auto Clicker](https://github.com/xAlan007x/auto-clicker)** | Proyecto de Prueba Auto clicker echo con python| `Activo` |
