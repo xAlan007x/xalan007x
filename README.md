@@ -51,6 +51,7 @@
 | 🚨 **[Reporta Fácil](https://github.com/xAlan007x/Reporta-Mas-Facil)** | Página web para facilitar el reporte de contenido o cuentas en distintas plataformas. | `En desarrollo` |
 | 🌐 **[Proyectos Web](https://github.com/xAlan007x/portafolio-personal-)** | Colección de páginas, landing pages y experimentos hechos con HTML, CSS y JavaScript. | `Activo` |
 | 🏙️ **[TiendaVirtus CITY](https://github.com/xAlan007x/TiendaVirtus-city)** | Proyecto grande donde vos podes ser parte dibujas y construis una ciudad con la comunidad| `Activo` |
+| 🖱️ **[Auto Clicker](https://github.com/xAlan007x/auto-clicker)** | Proyecto de Prueba Auto clicker echo con python| `Activo` |
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
