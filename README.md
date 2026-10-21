@@ -52,6 +52,7 @@
 | 🌐 **[Proyectos Web](https://github.com/xAlan007x/portafolio-personal-)** | Colección de páginas, landing pages y experimentos hechos con HTML, CSS y JavaScript. | `Activo` |
 | 🏙️ **[TiendaVirtus CITY](https://github.com/xAlan007x/TiendaVirtus-city)** | Proyecto grande donde vos podes ser parte dibujas y construis una ciudad con la comunidad| `Activo` |
 | 🖱️ **[Auto Clicker](https://github.com/xAlan007x/auto-clicker)** | Proyecto de Prueba Auto clicker echo con python| `Activo` |
+| 💻 **[Bug Hunter Academy](https://github.com/xAlan007x/bug-Hunter-academy-version-1.2)** | Proyecto escolar para enseñar a alumnos codigo y componentes electronicos| `Activo` |
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
