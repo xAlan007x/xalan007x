@@ -1,18 +1,3 @@
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xAlan007x&show_icons=true&theme=transparent&title_color=00F7FF&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D&hide_border=false&rank_icon=github" alt="Estadísticas de GitHub"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAlan007x&layout=compact&langs_count=6&theme=transparent&title_color=00F7FF&text_color=C9D1D9&border_color=30363D" alt="Lenguajes más utilizados"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:6366F1,100:8B5CF6&height=3&section=header" width="100%" alt="Separador neón"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-12-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-Español-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-orange?style=for-the-badge" />
-</p>
 
 <!-- BANNER PRINCIPAL -->
 <p align="center">
