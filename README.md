@@ -18,7 +18,7 @@
 
 ## 👋 Sobre mí
 
-- 🧑‍💻 Me llamo **Alan**, tengo 12 años y soy un desarrollador en formación.
+- 🧑‍💻 Me llamo **Alan**, tengo 14 años y soy un desarrollador en formación.
 - 💡 Me encanta aprender cosas nuevas, resolver problemas y dar vida a mis ideas con código.
 - 🖨️ Creador de **TiendaVirtus**, mi propio proyecto enfocado a la impresión 3D, tecnología y desarrollo web.
 - 🚀 Mi filosofía: *"Aprender, crear y mejorar un poco más cada día."*
